@@ -1,0 +1,934 @@
+{
+  "WindsorAddresses": [
+    {
+      "Street": "327-329 Curry Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N6B 2B7"
+    },
+    {
+      "Street": "1353 Wellington Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8C 2C1"
+    },
+    {
+      "Street": "12058 Tecumseh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8N 1L9"
+    },
+    {
+      "Street": "809 Michael Drive",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8N 6A2"
+    },
+    {
+      "Street": "1400 Clover Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8P 1R2"
+    },
+    {
+      "Street": "7880 Riverside Drive East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8S 1C9"
+    },
+    {
+      "Street": "8575 Riverside Drive E Apt 606",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8S 1G2"
+    },
+    {
+      "Street": "825 Buckingham Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8S 1L3"
+    },
+    {
+      "Street": "945 Villaire Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8S 2J5"
+    },
+    {
+      "Street": "910 Glidden Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8S 2N7"
+    },
+    {
+      "Street": "5951 Wyandotte St. E.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8S 2T5"
+    },
+    {
+      "Street": "4897 Tecumseh Rd East, Suite 1",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 1B6"
+    },
+    {
+      "Street": "4897 Tecumseh Rd East, Suite 2",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 1B6"
+    },
+    {
+      "Street": "5270 Tecumesh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 1C6"
+    },
+    {
+      "Street": "5240 Tecumseh Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 1C6"
+    },
+    {
+      "Street": "6675 Tecumseh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 1E7"
+    },
+    {
+      "Street": "101-7755 Tecumseh Road E",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 1G3"
+    },
+    {
+      "Street": "2956 Grandview St.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 2L6"
+    },
+    {
+      "Street": "1739 Glendale Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 2N1"
+    },
+    {
+      "Street": "3161 Lloyd George Blvd.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 2V5"
+    },
+    {
+      "Street": "6420 Thornberry Crescent",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8T 2W9"
+    },
+    {
+      "Street": "1226 - 1228 Tecumseh Rd. East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1B6"
+    },
+    {
+      "Street": "1430 Tecumseh Rd. East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1C1"
+    },
+    {
+      "Street": "2998 Tecumseh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1G5"
+    },
+    {
+      "Street": "851314 Ontario Ltd. o/b Kwang",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1G5"
+    },
+    {
+      "Street": "3979 Tecumseh Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1J5"
+    },
+    {
+      "Street": "4608 Tecumseh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1K7"
+    },
+    {
+      "Street": "4606 Tecumseh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1K7"
+    },
+    {
+      "Street": "4033 Tecumseh Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 1S7"
+    },
+    {
+      "Street": "1861 Kildare Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 2W8"
+    },
+    {
+      "Street": "2523 Kildare Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 2X4"
+    },
+    {
+      "Street": "1711 Walker Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 3P2"
+    },
+    {
+      "Street": "3449 Walker Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 3S2"
+    },
+    {
+      "Street": "4050 Walker Road, Unit 300",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 3T5"
+    },
+    {
+      "Street": "4530 Rhodes Drive Unit # 7",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 5C2"
+    },
+    {
+      "Street": "945-4510 Rhodes Drive",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 5K5"
+    },
+    {
+      "Street": "925 Provincial Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 5V9"
+    },
+    {
+      "Street": "4250 North Service Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 5X2"
+    },
+    {
+      "Street": "4670 North Service Road East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8W 5X2"
+    },
+    {
+      "Street": "441 Ellis Street, West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 1B1"
+    },
+    {
+      "Street": "777 Tecumseh Road West, P.O. Box 99",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 1H4"
+    },
+    {
+      "Street": "1153 Tecumseh Road West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 1H7"
+    },
+    {
+      "Street": "2510 Ouillette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 1L4"
+    },
+    {
+      "Street": "1414 Dougall Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 1R8"
+    },
+    {
+      "Street": "943 Ottawa Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 2E2"
+    },
+    {
+      "Street": "1269 Ottawa St",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 2E5"
+    },
+    {
+      "Street": "1311 Ottawa Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 2E9"
+    },
+    {
+      "Street": "#5-2605 Howard Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 2Y2"
+    },
+    {
+      "Street": "2855 Howard Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 3T4"
+    },
+    {
+      "Street": "1576 Howard Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 3T5"
+    },
+    {
+      "Street": "2605 Howard Avenue,",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 3W7"
+    },
+    {
+      "Street": "2679 Howard Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 3X2"
+    },
+    {
+      "Street": "1260 Marenette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4C6"
+    },
+    {
+      "Street": "1742 Elsmere Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4H4"
+    },
+    {
+      "Street": "3096 Devon Drive, Unit 25",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4L2"
+    },
+    {
+      "Street": "1652 Benjamin Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4N6"
+    },
+    {
+      "Street": "1335 Pierre Ave.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4P2"
+    },
+    {
+      "Street": "1532 Moy Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4S9"
+    },
+    {
+      "Street": "2639 Howard Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8X 4Z3"
+    },
+    {
+      "Street": "1799 Wyandotte St. E",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1C9"
+    },
+    {
+      "Street": "1799 Wyandotte Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1C9"
+    },
+    {
+      "Street": "1880 Wyandotte Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1E3"
+    },
+    {
+      "Street": "1850 Wyandotte Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1E3"
+    },
+    {
+      "Street": "2979 Tecumseh Road E",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1G6"
+    },
+    {
+      "Street": "2744 Edna Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1V2"
+    },
+    {
+      "Street": "2521 Seminole Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 1X5"
+    },
+    {
+      "Street": "1005 Lincoln Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 2H6"
+    },
+    {
+      "Street": "400 Chilver Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 2J7"
+    },
+    {
+      "Street": "1209 Drouillard Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 2R4"
+    },
+    {
+      "Street": "1636 Drouillard Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 2S3"
+    },
+    {
+      "Street": "1117 George Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 2X4"
+    },
+    {
+      "Street": "476 Windermere Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 3C9"
+    },
+    {
+      "Street": "1075 Hickory Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 3S2"
+    },
+    {
+      "Street": "1160 Central Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 3T9"
+    },
+    {
+      "Street": "1226 Labadie Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 4G7"
+    },
+    {
+      "Street": "1276 Drouillard Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N8Y 4R5"
+    },
+    {
+      "Street": "809-1225 Riverside Drive W",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 0A2"
+    },
+    {
+      "Street": "670 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 1B9"
+    },
+    {
+      "Street": "670 Ouellette Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 1B9"
+    },
+    {
+      "Street": "654 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 1B9"
+    },
+    {
+      "Street": "720 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 1C2"
+    },
+    {
+      "Street": "754 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 1C2"
+    },
+    {
+      "Street": "447 Aylmer Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 1T5"
+    },
+    {
+      "Street": "552 Parent Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2C3"
+    },
+    {
+      "Street": "98 University Avenue West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2N6"
+    },
+    {
+      "Street": "63 Riverside Drive, East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2S4"
+    },
+    {
+      "Street": "1271 Riverside Drive, East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2T7"
+    },
+    {
+      "Street": "53 Pitt Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2V3"
+    },
+    {
+      "Street": "53 Pitt Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2V3"
+    },
+    {
+      "Street": "38 Chatham Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2W1"
+    },
+    {
+      "Street": "20 Chatham Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2W1"
+    },
+    {
+      "Street": "28-36 Chatham Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2W1"
+    },
+    {
+      "Street": "38-42 Chatham Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2W1"
+    },
+    {
+      "Street": "25 Chatham Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2W2"
+    },
+    {
+      "Street": "25 Chatham St. E.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 2W2"
+    },
+    {
+      "Street": "764-766 Brant Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 3E8"
+    },
+    {
+      "Street": "397 Wyandotte Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 3H7"
+    },
+    {
+      "Street": "1056 Wyandotte Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 3K2"
+    },
+    {
+      "Street": "1000 Wyandotte Street East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 3K2"
+    },
+    {
+      "Street": "1353 Wyandotte Street East,",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 3K8"
+    },
+    {
+      "Street": "225 Giles Boulevard East",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4C3"
+    },
+    {
+      "Street": "251 Ouellette Avenue, 2nd Floor",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4H9"
+    },
+    {
+      "Street": "251 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4H9"
+    },
+    {
+      "Street": "375 Ouellette Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4J1"
+    },
+    {
+      "Street": "527 Ouellette Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4J3"
+    },
+    {
+      "Street": "527 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4J3"
+    },
+    {
+      "Street": "553 Ouellette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4J3"
+    },
+    {
+      "Street": "261 Pelissier Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4K3"
+    },
+    {
+      "Street": "530 Pelissier Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4L1"
+    },
+    {
+      "Street": "711 Pelissier St. #2",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4L4"
+    },
+    {
+      "Street": "633 Janette Avnue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 4Z8"
+    },
+    {
+      "Street": "559 Caron Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5B5"
+    },
+    {
+      "Street": "1080 Oak Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5G4"
+    },
+    {
+      "Street": "149 Chatham Street West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5M7"
+    },
+    {
+      "Street": "119 Chatham Street West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5M7"
+    },
+    {
+      "Street": "100 University Avenue, West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5N6"
+    },
+    {
+      "Street": "138 University Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5N9"
+    },
+    {
+      "Street": "493 University Ave. W.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5P9"
+    },
+    {
+      "Street": "1139 University Avenue West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5T1"
+    },
+    {
+      "Street": "170 Wyandotte Street West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5W7"
+    },
+    {
+      "Street": "565 Wyandotte Street West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5X7"
+    },
+    {
+      "Street": "1190 Wyandotte Street West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 5Y5"
+    },
+    {
+      "Street": "4255 7th Concession RR#1",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 6J3"
+    },
+    {
+      "Street": "430 Oullette Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 6P6"
+    },
+    {
+      "Street": "300 Ouellette Avenue, Suite 100",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9A 7B4"
+    },
+    {
+      "Street": "2130 Wyandotte St W,",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 1J9"
+    },
+    {
+      "Street": "2190 Wyandotte Street West",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 1J9"
+    },
+    {
+      "Street": "2155 Wyandotte Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 1K1"
+    },
+    {
+      "Street": "1657 College Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 1M2"
+    },
+    {
+      "Street": "494 Campbell Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 2H4"
+    },
+    {
+      "Street": "489 Partington Ave.",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 2N4"
+    },
+    {
+      "Street": "236 Rankin Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 2R6"
+    },
+    {
+      "Street": "902 California Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9B 2Z6"
+    },
+    {
+      "Street": "340 Sandwich Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 1A6"
+    },
+    {
+      "Street": "3199 Sandwich Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 1A7"
+    },
+    {
+      "Street": "3493-3499 Sandwich Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 1B4"
+    },
+    {
+      "Street": "3348 Baby Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 1L3"
+    },
+    {
+      "Street": "3641 Bloomfield Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 1S1"
+    },
+    {
+      "Street": "1415 Huron Church Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 2K9"
+    },
+    {
+      "Street": "1319 Chappell Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 3E1"
+    },
+    {
+      "Street": "1096 Wigle Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 3M8"
+    },
+    {
+      "Street": "3373-3375 Peter Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9C 3R7"
+    },
+    {
+      "Street": "3490 Askin Ave",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 3J7"
+    },
+    {
+      "Street": "126 Oulette Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 3M3"
+    },
+    {
+      "Street": "1825 Kent Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 3R4"
+    },
+    {
+      "Street": "2300 Huron Church Road, Unit #1",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 3S6"
+    },
+    {
+      "Street": "4745 Malden Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 3T4"
+    },
+    {
+      "Street": "3021 Kenilworth Drive",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 4M1"
+    },
+    {
+      "Street": "722 Dougall Avenue",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 4P8"
+    },
+    {
+      "Street": "5220 Outter Drive",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9E 6J3"
+    },
+    {
+      "Street": "400 Cabana Road East, Unit 3",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9G 1A3"
+    },
+    {
+      "Street": "1018 Drouillard Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9G 3A7"
+    },
+    {
+      "Street": "2000 North Talbot Road West, South Campus",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9G 3C3"
+    },
+    {
+      "Street": "730 Sprucewood Road",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9J 1Z9"
+    },
+    {
+      "Street": "3217 Sandwich Street",
+      "City": "Windsor",
+      "Prov": "Ontario",
+      "Postal": "N9L 1A9"
+    }
+  ]
+}
